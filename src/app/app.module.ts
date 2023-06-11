@@ -13,6 +13,7 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';
   imports: [
     BrowserModule,
     HttpClientModule,
+    TranslateModule,
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,

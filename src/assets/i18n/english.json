@@ -1,0 +1,12 @@
+{
+  "title": "Prototype for multilingual support",
+  "Name": "Name",
+  "Password": "Password",
+  "Email": "Email address",
+  "Address": "Address",
+  "City": "City",
+  "State": "State",
+  "Country": "Country",
+  "TermsConditionsText": "I agree to terms and conditions.",
+  "Submit": "Submit"
+}
